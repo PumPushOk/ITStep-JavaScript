@@ -1,7 +1,7 @@
 const site = {
     header: {
         logo: {
-            image: 'img/logo.jfif',
+            image: 'https://assets.justinmind.com/wp-content/uploads/2018/11/Lorem-Ipsum-alternatives-1024x655.png',
             tag: 'logo'
         },
         menu: [
